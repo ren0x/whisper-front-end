@@ -140,7 +140,7 @@ if __name__ == "__main__":
     root.title("Whisper Python GUI")
 
     # set program icon ('icon.svg')
-    root.iconphoto(True, tk.PhotoImage(file="icon.png"))
+    root.iconphoto(True, tk.PhotoImage(file= "src/img/icon.png"))
 
     # Make the window accept file drops
     root.drop_target_register(DND_FILES)
