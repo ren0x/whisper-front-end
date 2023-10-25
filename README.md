@@ -16,4 +16,5 @@
 
 - clone this repository
 - install `brew install python3 ffmpeg mbedtls python-tk`
+- install `pip3 install openai-whisper tkinterdnd2`
 - on Windows, install `tkinter` and `ffmpeg` manually
